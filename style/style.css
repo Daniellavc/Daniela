@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f1f1f1;
+  }
+  
+  header {
+    background-color: #c09393;
+    color: #1d1b1b;
+   
+  }
+
+  img {
+    border-radius: 100px;
+    width: 200px;
+    height: 190px;
+    margin-top: 20px;
+    margin-left: 20px;
+  }
